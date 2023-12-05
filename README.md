@@ -26,7 +26,9 @@ I've successfully completed a fascinating project in the hospitality domain, and
 It's been an incredible learning experience, exploring the specific challenges and insights of the hospitality domain. Each industry has its own unique data landscape to navigate.
 
 Dashboard Homepage:
-![mock up dashboard_atliq grands](https://github.com/sivajetteboina/Power-BI---Revenue-Insights-Hospitality/assets/144469525/180f10f9-d62d-4889-a422-9580e3929bba)
+
+![Screenshot (31)](https://github.com/sivajetteboina/Power-BI---Revenue-Insights-Hospitality/assets/144469525/3a6d951b-aa7e-4cf7-ac69-c7e8d8788cba)
+
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
 
