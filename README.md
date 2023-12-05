@@ -24,3 +24,9 @@ I've successfully completed a fascinating project in the hospitality domain, and
 𝗗𝗨𝗥𝗡 (Daily Utilized Room Nights): Insights into the number of rooms utilized by customers daily.
 
 It's been an incredible learning experience, exploring the specific challenges and insights of the hospitality domain. Each industry has its own unique data landscape to navigate.
+
+Dashboard Homepage:
+![mock up dashboard_atliq grands](https://github.com/sivajetteboina/Power-BI---Revenue-Insights-Hospitality/assets/144469525/180f10f9-d62d-4889-a422-9580e3929bba)
+
+Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
+
